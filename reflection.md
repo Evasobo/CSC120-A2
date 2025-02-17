@@ -1,3 +1,4 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+# One major issue was debugging missing attributes. I forgot to initialize attributes like price and os in the Computer class. This led to errors when attempting to update or access these attributes later on. Another challenge was list handling mistakes, particularly when checking whether a computer was in the inventory.For future students, I recommend fully understanding object-oriented programming (OOP) concepts, including how to manage attributes and methods in classes. It's also important to test frequently—running smaller tests after each function implementation helps catch errors early. I also suggest planning your logic ahead of time (I wrote my ideas it on paper first); thinking through how different objects and methods interact can make the coding process smoother. 
